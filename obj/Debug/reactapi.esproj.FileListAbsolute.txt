@@ -1,0 +1,2 @@
+C:\Users\egromley\Desktop\Playground2\ReactAPI\obj\Debug\reactapi.esproj.SuggestedBindingRedirects.cache
+C:\Users\egromley\Desktop\Playground2\ReactAPI\obj\Debug\reactapi.esproj.CoreCompileInputs.cache
